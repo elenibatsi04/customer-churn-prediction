@@ -43,8 +43,7 @@ columns so you can test the pipeline.
 | `models/churn_model.joblib` | pipeline + tuned threshold |
 
 <img width="2080" height="1170" alt="01_eda" src="https://github.com/user-attachments/assets/00c0097d-2791-4d8e-9f71-cdd8dadd4e8a" />
-<img width="1690" height="650" alt="02_roc_pr_curves" src="https://github.com/user-attachments/assets/723bfdf6-d2e0-45ea-b8bd-386f65c52ae2" />[test_set_risk_scores.csv](https://github.com/user-attachments/files/35088510/test_set_risk_scores.csv)
-[model_comparison.csv](https://github.com/user-attachments/files/35088509/model_comparison.csv)
+<img width="1690" height="650" alt="02_roc_pr_curves" src="https://github.com/user-attachments/assets/723bfdf6-d2e0-45ea-b8bd-386f65c52ae2" />
 <img width="1040" height="975" alt="06_shap_summary" src="https://github.com/user-attachments/assets/ddddcce6-6570-463e-a2a3-12022ad6ee9e" />
 <img width="1040" height="715" alt="05_feature_importance" src="https://github.com/user-attachments/assets/40d5030c-2ebc-410a-8649-594c936947e6" />
 <img width="650" height="585" alt="04_confusion_matrix" src="https://github.com/user-attachments/assets/a09b77c6-844a-4cce-b953-006605f23125" />
